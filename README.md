@@ -19,4 +19,4 @@ Calculates both average and marginal effect factors (EFs) for nitrogen emissions
 
 
 
-citation: Zhou J, Mogollón JM, van Bodegom PM, Barbarossa V, Beusen AHW, Scherer L. Effects of Nitrogen Emissions on Fish Species Richness across the World's Freshwater Ecoregions. Environ Sci Technol. 2023 Jun 6;57(22):8347-8354. doi: 10.1021/acs.est.2c09333. Epub 2023 May 22. PMID: 37216582; PMCID: PMC10249400.
+citation: Zhou J, Mogollón JM, van Bodegom PM, Barbarossa V, Beusen AHW, Scherer L. Effects of Nitrogen Emissions on Fish Species Richness across the World's Freshwater Ecoregions. Environ Sci Technol. 2023 Jun 6;57(22):8347-8354. doi: 10.1021/acs.est.2c09333.
